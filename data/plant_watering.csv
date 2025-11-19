@@ -1,0 +1,11 @@
+plant_type,soil_moisture,temperature,humidity,time_since_last_watering,needs_watering
+Succulent,18,30,40,72,1
+Fern,65,24,60,12,0
+Rose,40,32,50,36,1
+Cactus,15,38,30,96,1
+Orchid,60,27,55,10,0
+Bonsai,55,26,45,24,0
+Lavender,25,28,35,48,1
+Mint,70,22,65,8,0
+Sunflower,35,33,50,40,1
+Aloe,20,31,38,60,1
