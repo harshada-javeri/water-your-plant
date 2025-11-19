@@ -1,0 +1,1 @@
+web: python scripts/predict.py

@@ -6,6 +6,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY scripts/ ./scripts/
+COPY data/ ./data/
 COPY model.pkl ./
 
 EXPOSE 9696
